@@ -32,7 +32,7 @@ pip install pandas numpy scikit-learn openpyxl
 
 2. Run the script:  
 ```
-python santander_decision_tree.py
+Santander Customer Satisfaction.ipynb
 ```
 
 3. Output saved in `data/Output_Santander.xlsx` with separate sheets:  
