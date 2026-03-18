@@ -12,7 +12,7 @@ project/
 │  ├─ test.csv                # Test dataset
 │  └─ Output_Santander.xlsx   # Predictions and reports (generated)
 │
-├─ santander_decision_tree.py  # Main Python script
+├─ Santander Customer Satisfaction.ipynb  # Main Python script
 └─ README.md
 ```
 
