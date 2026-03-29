@@ -22,15 +22,9 @@ project/
 │  └─ Output_Santander.xlsx   # Predictions and reports (generated)
 │
 ├─ santander_decision_tree.py  # Main Python script
+├─ .gitignore
 └─ README.md
-```
 
-Add a `.gitignore` file to keep data files out of Git:
-```
-data/train.csv
-data/test.csv
-data/Output_Santander.xlsx
-```
 
 ## Requirements
 - Python 3.8+
